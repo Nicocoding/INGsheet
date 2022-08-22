@@ -1,3 +1,3 @@
 # INGsheet
 
-Transform the ING statement to the format desired for the logfile
+Transform the ING statement to the format needed for the logfile
